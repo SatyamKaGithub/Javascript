@@ -3,6 +3,7 @@
 values are set in a specific sequence.
 values can be accessed with ther index number.*/
 
+
 // suppose there are two cargo train carrying different things. We can use array to find out which bogey is carrying what item.
 // suppose train 1 has 5 bogey and train 2 has 2 bogeys.
 
